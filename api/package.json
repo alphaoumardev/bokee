@@ -17,7 +17,7 @@
     "express": "^4.21.2",
     "http-proxy-middleware": "^2.0.9",
     "jsonwebtoken": "^9.0.0",
-    "multer": "^2.0.1",
+    "multer": "^2.0.2",
     "mysql2": "^3.9.8",
     "nodemon": "^3.0.0"
   }
